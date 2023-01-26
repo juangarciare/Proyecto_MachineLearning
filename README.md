@@ -3,6 +3,7 @@ Garcia Ressia Juan Ignacio
 En este README esta la informacion mas importantes de mis dos modelos de prediccion utilizados en el repositorio donde estamos.
 
 En el archivo modelo_no_supervisado.ipynb encotraran como relice paso a paso mi modelo de prediccion no supervisado usando K_means- 
+
 En el archivo modelo_supervisado.ipynb encotraran como relice paso a paso mi modelo de prediccion supervisado usando arbol de clasificacion- 
 
 Información sobre el proyecto
