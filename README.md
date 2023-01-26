@@ -1,9 +1,11 @@
-Garci Ressia Juan Ignacio
+Garcia Ressia Juan Ignacio
+
 En este README esta la informacion mas importantes de mis dos modelos de prediccion utilizados en el repositorio donde estamos.
 
 En el archivo modelo_no_supervisado.ipynb encotraran como relice paso a paso mi modelo de prediccion no supervisado usando K_means- 
 En el archivo modelo_supervisado.ipynb encotraran como relice paso a paso mi modelo de prediccion supervisado usando arbol de clasificacion- 
-README - Información sobre el proyecto
+
+Información sobre el proyecto
 
 El objetivo de estos notbooks es realizar dos modelos de prediccion, con el fin de crear categorias basadas en los precios de las propiedades, sobre una base de datos que posee informacion sobre propiedades publicadas.
  
